@@ -2,7 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Hello, I'm working.
+      Hello, I'm working.<br/>
+      Please feel free to contact me if you any questions.
     </p>
   </div>
 </template>
