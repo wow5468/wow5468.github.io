@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <img alt="JH Logg" src="./assets/logo.png">
-    <HelloWorld msg="Juhyun Lim"/>
   </div>
 </template>
 
