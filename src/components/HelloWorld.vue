@@ -3,7 +3,8 @@
     <h1>Juhyun Lim</h1>
     <p>
       Hello, I'm working.<br/>
-      Please feel free to contact me if you have any questions.
+      Please feel free to contact me if you have any questions.<br/><br/>
+      <b>You are being redirected to my LinkedIn page.</b>
     </p>
   </div>
 </template>
@@ -13,6 +14,9 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  created(){
+    setTimeout( () => { window.location = "https://www.linkedin.com/in/juhyun-lim-1022/"}, 5000);
   }
 }
 </script>
