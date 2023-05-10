@@ -3,7 +3,7 @@
     <h1>Juhyun Lim</h1>
     <p>
       Hello, I'm working.<br/>
-      Please feel free to contact me if you any questions.
+      Please feel free to contact me if you have any questions.
     </p>
   </div>
 </template>
